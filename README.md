@@ -47,6 +47,11 @@ Time period: 1990–2024
 
 📈 Dashboard Highlights
 
+## 📊 Dashboard Preview
+
+![India Growth vs Reality Dashboard](images/dashboard.png)
+
+
 GDP growth trend over three decades
 
 Comparison of GDP vs GDP per capita growth
